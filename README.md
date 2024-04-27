@@ -7,8 +7,8 @@ The agency covers all hospitals in each of the 50 states of the United States, a
 #### Datac Overview 
 The project utilizes three key data sets: population data, influenza laboratory tests and patient visits, and influenza death data. These data sets provide insights into the demographics, disease trends, and mortality associated with influenza in the United States.
 #### Key Questions
-Which population is given importance?
-Which states are currently facing risks?
-When should staff be sent to each state?
+* Which population is given importance?
+* Which states are currently facing risks?
+* When should staff be sent to each state?
 
 

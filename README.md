@@ -10,5 +10,5 @@ The project utilizes three key data sets: population data, influenza laboratory 
 * Which population is given importance?
 * Which states are currently facing risks?
 * When should staff be sent to each state?
-
+  A [link](https://public.tableau.com/app/profile/rose.alappat.joy/viz/Mynewpresentation/PreparingforInfluenzaseason?publish=yes) to Influenza season analysis Presenation
 
